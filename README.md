@@ -31,3 +31,4 @@ Use mapping file to re-annotate network file prior to Excel conversions.
 python3 anno.py dump.network.mci.I15 > dump.anno.network.mci.I15
 python3 loop_excel_lister.py dump.anno.network.mci.I15
 ```
+Use batchgo_custom.R for custom annotations.  An example map file is provided.
